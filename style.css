@@ -993,6 +993,13 @@ cursor: pointer;
      
   @media screen and (max-width:767.2px) {
     
+    .naxos{
+      padding-right: 0;
+    }
+    .footer-social-icons{
+      justify-content: space-evenly;
+    }
+    
   .frame{
     height: 450px;
     width: 100%;
@@ -1055,13 +1062,6 @@ cursor: pointer;
       }
     }
     @media screen and (max-width:450.9px) {
-      .naxos{
-        padding-right: 0;
-      }
-      
-.footer-social-icons{
-  justify-content: space-evenly;
-}
 
 .screenshoots{
   display: flex;
