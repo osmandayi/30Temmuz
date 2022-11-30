@@ -459,7 +459,7 @@ transition: 0.34s;
     
     .overlay-watch-video .closebtn {
       position: absolute;
-      top: 20px;
+      top: 30px;
       right: 45px;
       font-size: 60px;
     }
@@ -1070,16 +1070,9 @@ cursor: pointer;
   padding-bottom: 2rem;
 }
 
-
-.overlay-watch-video .closebtn {
-  position: absolute;
-  top: 25px;
-  right: 25px;
-  font-size: 50px;
-}
 .frame{
   height: 250px;
-  width: 95%;
+  width: 90%;
 }
     }
 
@@ -1087,7 +1080,7 @@ cursor: pointer;
       .overlay-watch-video a {font-size: 20px}
       .overlay-watch-video .closebtn {
       font-size: 40px;
-      top: 25px;
+      top: 35px;
       right: 35px;
       }
     }
